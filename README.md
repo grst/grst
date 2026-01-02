@@ -10,7 +10,7 @@ I am a Research Software Engineer and Bioinformatics Scientist focusing on Immun
 ## Blog
 
 Here are some articles I wrote:
- * 2026-01-02 | [Vergleich von dynamischem Stromtarif mit Fixpreistarif (mit PV Anlage)](https://grst.github.io/dynamischer-stromtarif/dynamischer-stromtarif-pv.html); As a follow-up of the previous post, I compare a hourly variable electricity tariff with a classical fixed-price tariff with the data for 2025, taking into account the PV system and home battery. 
+ * 2026-01-02 | [Vergleich von dynamischem Stromtarif mit Fixpreistarif (mit PV Anlage)](https://grst.github.io/dynamischer-stromtarif/dynamischer-stromtarif-pv.html) &ndash; As a follow-up of the previous post, I compare a hourly variable electricity tariff with a classical fixed-price tariff with the data for 2025, taking into account the PV system and home battery. 
  * 2024-12-30 | [Vergleich von dynamischem Stromtarif mit Fixpreistarif](https://grst.github.io/dynamischer-stromtarif/dynamischer-stromtarif.html) &ndash; Here I use electicity consumption data from our household to compare a hourly variable electricity tariff with a classical fixed-price tariff (in German). 
  * 2020-11-28 | [Low-level nextflow](https://grst.github.io/bioinformatics/2020/11/28/low-level-nextflow-hacking.html) &ndash; Here, I summarize some learnings on Groovy and Nextflow. 
  * 2020-07-16 | [Hallmarks of Good Scientific Software](https://grst.github.io/bioinformatics/2020/07/16/hallmarks-scientific-software.html) &ndash; In this post, I outline six key practices to enhance code quality and reproducibility in scientific research. 
